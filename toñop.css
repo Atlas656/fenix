@@ -1,0 +1,75 @@
+@charset "utf-8";
+body{
+	background-color:beige;
+}
+#Contenedor{
+	background-color:ghostwhite;
+	width: 1001px;
+	height: 4200px;
+	margin: auto;/* CSS Document */
+}
+header{
+	width: 200px;
+	height: 90px;
+	float: left;	
+}
+	nav{
+	background-color:mediumseagreen;
+	width: 994px;
+	height: 80px;
+    float: left;
+}
+
+.menu{
+	background-color:lawngreen;
+	width:100px;
+	height: 40px;
+	float:left;
+    border:outset;
+	margin-left: 80px;
+	margin-top:20px;
+	margin-right:50px;
+}
+aside{
+	background-color:ghostwhite;
+	width: 994px;
+	height: 405px;
+    float: left;
+}
+#min{
+	width:30px;
+	height: 30px;
+	float:right;
+	margin-top:-200px;
+	margin-left:100px;
+	margin-right:90px;
+}
+#Maxi{
+	width:30px;
+	height: 30px;
+	float: right;
+	margin-top:-200px;
+	margin-left:100px;
+	margin-right:50px;
+}
+#salir{
+	width:30px;
+	height: 30px;
+	float: right;
+	margin-top:-200px;
+	margin-left:100px;
+	margin-right:10px;
+}
+section{
+    width:994px;
+	height:500px;
+	float:left;
+	margin-left:3px;
+}
+
+footer{
+background-color:mediumseagreen;
+	width: 994px;
+	height: 150px;
+float: left;	
+}
